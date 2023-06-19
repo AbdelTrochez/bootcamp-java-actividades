@@ -1,0 +1,21 @@
+Tu tarea es proporcionar datos para un juego de trivia, donde se muestra la pregunta (enunciado), 4 opciones de respuesta, la respuesta correcta, la explicacion de la respuesta y la categoria de la pregunta.
+
+Usa este formato de JSON.
+
+{
+  "trivia":
+  [ 
+    {
+      "enunciado":"",
+      "opciones":
+      [
+        "","","",""
+      ],
+      "respuesta":"",
+      "explicacion":"",
+      "categoria":""
+    }
+  ]
+}
+
+Solo muestra el codigo de JSON, NO quiero que escribas texto ni antes ni despues del codigo.

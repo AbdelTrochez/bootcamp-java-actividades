@@ -1,0 +1,25 @@
+{
+  "nombre_equipo":"Winner Team",
+  "numero_equipo":"?",
+  "integrantes":
+  [
+    {
+      "nombre":"Abdel",
+      "apellido":"Trochez",
+      "pais":"Honduras",
+      "ocupacion_actual":"Docente Informática",
+      "fecha_nacimiento":"23/11/1991",
+      "discord":"Abdel Trochez #5576",
+      "github":"https://github.com/AbdelTrochez"
+    },
+    {
+      "nombre":"",
+      "apellido":"",
+      "pais":"",
+      "ocupacion_actual":"",
+      "fecha_nacimiento":"",
+      "discord":"",
+      "github":""
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "category": "Tecnología",
+  "question": "¿Cuál es la resolución máxima de una pantalla 4K?",
+  "options": ["3840 x 2160 píxeles", "1920 x 1080 píxeles", "2560 x 1440 píxeles"],
+  "answer": 0,
+  "explanation": "La resolución máxima de una pantalla 4K es de 3840 x 2160 píxeles. Esta resolución proporciona una calidad de imagen nítida y detallada, lo que la convierte en una opción popular para disfrutar de contenido en alta definición."
+}

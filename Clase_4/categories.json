@@ -1,0 +1,27 @@
+
+[
+  {
+  "category": "Tecnología",
+  "description": "Preguntas relacionadas con la tecnología, dispositivos electrónicos y avances tecnológicos."
+  },
+  {
+  "category": "Salud",
+  "description": "Preguntas relacionadas con la salud, medicina, enfermedades y bienestar personal."
+  },
+  {
+  "category": "Viajes",
+  "description": "Preguntas relacionadas con destinos turísticos, consejos de viaje y experiencias de viaje."
+  },
+  {
+  "category": "Gastronomía",
+  "description": "Preguntas relacionadas con comida, recetas, restaurantes y aspectos culinarios."
+  },
+  {
+  "category": "Medio ambiente",
+  "description": "Preguntas relacionadas con el medio ambiente, cambio climático, conservación de la naturaleza y sostenibilidad."
+  },
+  {
+  "category": "Debates",
+  "description": "Preguntas relacionadas con temas de debate actuales, opiniones y puntos de vista divergentes."
+  }
+  ]

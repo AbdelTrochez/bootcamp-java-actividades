@@ -6,11 +6,11 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Ingresa tu edad: ");
+        System.out.println("Ingresa la edad de tu perro: ");
         Integer edad = scanner.nextInt();
 
         Integer edadPerro = edad * 7;
 
-        System.out.println("Tu edad en años perro es: " + edadPerro);
+        System.out.println("La edad en años perrunos es: " + edadPerro);
     }
 }

@@ -1,0 +1,5 @@
+atr\net\servicioTrivia\entities\Categories.class
+atr\net\servicioTrivia\MainController.class
+atr\net\servicioTrivia\entities\Question.class
+atr\net\servicioTrivia\ServletInitializer.class
+atr\net\servicioTrivia\ServicioTriviaApplication.class
